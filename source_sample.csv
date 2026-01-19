@@ -1,0 +1,5 @@
+CustomerID,FirstName,LastName,Email,SignupDate,TotalSpent
+1,Alice,Smith,alice@example.com,2022-01-01,1200.5
+2,Bob,Brown,bob@example.com,2022-01-03,980.0
+3,Carol,Jones,carol@example.com,2022-01-07,1450.75
+4,David,Green,david@example.com,2022-01-10,200.0
